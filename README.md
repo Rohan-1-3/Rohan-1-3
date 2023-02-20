@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 😊
 
 I am Rohan, currently a student self studying coding. 
 As I go on learning I have come to love coding more.
