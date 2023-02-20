@@ -1,9 +1,11 @@
 ### Hey there 👋
 
-I am Rohan, currently a student self studying coding. As I go on learning I have come to love coding more.
+I am Rohan, currently a student self studying coding. 
+As I go on learning I have come to love coding more.
 
-- 🌱 I’m currently learning ...
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and
+- 🌱 I’m currently learning ... </br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h2> Languages I am familiar with...</h2>
